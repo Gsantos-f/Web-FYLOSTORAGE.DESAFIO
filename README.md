@@ -3,7 +3,7 @@
 <p> ▣ PT-BR: Nesse desafio tive que criar um simples site em html e css, criando um site representando a capacidade de armazenamento de um usuario em seu banco de dados, com links e uma barra de progresso.</p></br>
 <p> ▣ EN-US: In this challenge I had to create a simple website in html and css, creating a website representing a user's storage capacity in your database, with links and a progress bar.</p>
 
-PAGE: https://gsantos-f.github.io/Web-FYLOSTORAGE.DESAFIO/
+PAGE: https://gsantos-f-fylostoragedesafio.netlify.app
 
  ## ◉ 💻Technologies
  ▣ HTML</br>
